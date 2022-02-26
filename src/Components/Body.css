@@ -1,0 +1,39 @@
+
+.Box
+{
+    width: 600px;
+    height: 150px;
+    background: palegreen;
+    font-size: 1.5rem;
+    border: 2px solid black;
+    border-radius: 1em;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+}
+button
+{
+    width: 8em;
+    height: 3em;
+    border: 0.1em solid black;
+    background: aqua;
+    font-size: 1em;
+    border-radius: 1em;
+
+}
+
+label
+{
+    font-weight: 600;
+}
+
+input{
+    width: 15rem;
+    height: 1.8rem;
+    background: skyblue;
+    border: 0.16em solid black ;
+    font-size: 1em;
+    border-radius: 1em;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
