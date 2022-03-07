@@ -39,7 +39,7 @@ class Body extends React.Component{
         });
         console.log(this.state)
         this.setState({
-            [event.target.value] :""
+            
         })
 
       
